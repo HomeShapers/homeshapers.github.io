@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+}
+
+.bgred {
+  background-color: #D92210;
+}
+
+.tcolorwhite {
+  color: #ffffff;
+}
+
+.talignc {
+  text-align: center;
+}
+
+.font {
+  font-family: Courgette, cursive;
+}
+
+.font2 {
+  font-family: Courgette, cursive;
+}
+
+.margin {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+.main {
+  font-family: Courgette, cursive;
+  font-size: 25px;
+}
