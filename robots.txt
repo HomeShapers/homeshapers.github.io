@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /index.html
+Allow: /photos.html
+Allow: /socialmedia
+Disallow: /sitemap.html
+Disallow: /google0fb403c8265d8ff6.html
+
+Sitemap: https://homeshapers.github.io/sitemap.xml
